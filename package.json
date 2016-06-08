@@ -1,6 +1,6 @@
 {
   "name": "watson-nlc-wrapper",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "watson nlc wrapper with login",
   "main": "index.js",
   "scripts": {
