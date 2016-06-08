@@ -1,6 +1,6 @@
 'use strict';
 var expect = require('chai').expect;
-var Classifier = require('../lib/classifier');
+var Classifier = require('../');
 
 var classifier = new Classifier({
   username: 'username',
